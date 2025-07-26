@@ -33,3 +33,16 @@ This logic is often used in project management to show trade-offs in time, quali
 Just open `index.html` in any web browser.
 
 
+
+
+## 🔗 Live Demo (GitHub Pages):
+[View the Project Live](https://mlriida09.github.io/Good-Cheap-Fast-Switch-Logic/)
+
+## 📁 Repository Link:
+[View the Code on GitHub](https://github.com/MLRiida09/Good-Cheap-Fast-Switch-Logic)
+
+## 🧑‍💻 Created by:
+**Rida Mellal**
+
+
+
